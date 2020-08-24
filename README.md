@@ -2,6 +2,8 @@
 Angular focused project that generates a ramdon password based on:  
 -The user chosed length  
 -The user choice to include letters, numbers and/or symbols  
+  
+ Project can be found at: https://angular-password-generator-five.vercel.app/
 
 ![alt text](https://github.com/amandabrelaz/angular-pass-generator/blob/master/pw-final.png)
 
