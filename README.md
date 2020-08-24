@@ -1,4 +1,9 @@
-# Pw
+# Angular-Password-Generator
+Angular focused project that generates a ramdon password based on:  
+-The user chosed length  
+-The user choice to include letters, numbers and/or symbols  
+
+![alt text](https://github.com/amandabrelaz/angular-pass-generator/blob/master/pw-final.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.7.
 
